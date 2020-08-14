@@ -6,7 +6,7 @@ body {
   font-size: 14px;
 }
 .header {
-  margin: auto;
+ margin: auto;
   padding: 0 85px;
   @extend %width;
   height: 73px;
@@ -38,7 +38,7 @@ body {
   }
 }
 .body {
-  margin:  auto;
+  margin: auto;
   padding: 28px 85px;
   @extend %width;
   display: flex;
@@ -227,8 +227,9 @@ background-color: #ffff;
   }
 }
 .content {
-  margin: 0px 30px;
+ margin: 0px 30px;
   width: 100%;
+//   border: solid black 1px;
 }
 .user {
   padding-right: 28px;
